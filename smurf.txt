@@ -1,4 +1,5 @@
 smurf 2
 smurf 3
+startcooking
 ouch
 gnap
