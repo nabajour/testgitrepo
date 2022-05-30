@@ -1,6 +1,7 @@
 smurf 2
 smuurf 3
 startcooking
+tastefood
 ouch
 gnap
 havesnack
